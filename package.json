@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "start": "node src/server.mjs",
-    "test": "node --test"
+    "test": "node --test",
+    "drill": "node scripts/drill.mjs"
   },
   "engines": {
     "node": ">=20"
